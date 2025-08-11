@@ -1,0 +1,7 @@
+
+gradio
+python-docx
+python-magic
+sentence-transformers
+faiss-cpu
+regex

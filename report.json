@@ -1,0 +1,19 @@
+{
+  "process": {
+    "process": "Unknown Process",
+    "doc_type": "Unknown Document Type"
+  },
+  "documents_uploaded": 1,
+  "required_documents": 3,
+  "missing_documents_count": 2,
+  "missing_document": "See checklist",
+  "issues_found": [
+    {
+      "document": "Unknown Document Type",
+      "section": "Signatory Section",
+      "issue": "No obvious signatory or signature block found",
+      "severity": "Medium",
+      "suggestion": "Ensure there is a signatory block with names, titles and dates."
+    }
+  ]
+}
